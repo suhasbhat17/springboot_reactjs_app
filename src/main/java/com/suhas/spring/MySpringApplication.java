@@ -1,4 +1,4 @@
-package com.suhas.spring.application;
+package com.suhas.spring;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.SpringApplication;
